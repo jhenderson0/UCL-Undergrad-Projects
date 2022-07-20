@@ -1,0 +1,11 @@
+Manuel Iñarrea, Víctor Lanchares, Jesús F. Palacián, Ana I. Pascual, J. Pablo Salas, Patricia Yanguas,
+Effects of a soft-core coulomb potential on the dynamics of a hydrogen atom near a metal surface,
+Communications in Nonlinear Science and Numerical Simulation,
+Volume 68,
+2019,
+Pages 94-105,
+ISSN 1007-5704,
+https://doi.org/10.1016/j.cnsns.2018.07.039.
+(https://www.sciencedirect.com/science/article/pii/S1007570418302594)
+Abstract: The goal of this paper is to investigate the effects that the replacement of the Coulomb potential by a soft-core Coulomb potential produces in the classical dynamics of a perturbed Rydberg hydrogen atom. As example, we consider a Rydberg hydrogen atom near a metal surface subjected to a constant electric field in the electron-extraction regime. Thence, the dynamics of the real perturbed Coulomb system, studied by applying the Levi–Civita regularization, is compared with that of the softened one. The results of this study show that the global behavior of the system is significantly altered when the original Coulomb potential part is replaced by a soft-core potential.
+Keywords: Coulomb-like potential; Soft-core potential approximation; Periodic orbits; Ionization dynamics
